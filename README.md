@@ -230,3 +230,6 @@ public class DbUtils {
     }
 }
 
+
+10. langkah yang kesepuluh yaitu menambahkan button cetak dibagian jfrmae
+11. 
